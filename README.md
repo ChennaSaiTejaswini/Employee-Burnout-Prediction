@@ -9,7 +9,7 @@ Here are some screenshots from the project interface:
 
 ![Demo Image 1](demo1.png)
 
-![Demo Image 2](demo2.png)
+
 
 
 ## Dataset
@@ -46,6 +46,7 @@ Missing values were handled using appropriate imputation techniques to ensure th
 
 ## Results
 The Linear Regression model achieved a high R-squared score, indicating that the model effectively explains the variance in the Burn Rate. This suggests that the model is well-suited for predicting employee burnout based on the available features.
+![Demo Image 2](demo2.png)
 
 ## Tools and Technologies
 - **Programming Language**: Python
