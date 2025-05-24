@@ -3,6 +3,15 @@
 ## Project Overview
 This project aims to predict employee burnout using machine learning models. Burnout is a state of emotional, physical, and mental exhaustion caused by prolonged stress in the workplace. Early detection of burnout can help organizations take proactive measures to improve employee well-being and productivity.
 
+## Demo Images
+
+Here are some screenshots from the project interface:
+
+![Demo Image 1](images/demo1.png)
+
+![Demo Image 2](images/demo2.png)
+
+
 ## Dataset
 The dataset used for this project includes features such as:
 - **Resource Allocation**: Percentage of resources assigned to an employee.
