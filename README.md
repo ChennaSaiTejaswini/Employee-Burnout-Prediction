@@ -7,9 +7,9 @@ This project aims to predict employee burnout using machine learning models. Bur
 
 Here are some screenshots from the project interface:
 
-![Demo Image 1](images/demo1.png)
+![Demo Image 1](demo1.png)
 
-![Demo Image 2](images/demo2.png)
+![Demo Image 2](demo2.png)
 
 
 ## Dataset
