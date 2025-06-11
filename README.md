@@ -102,20 +102,6 @@ A web-based interface has been developed using Flask to allow users to interact 
 - **`burnout_prediction.ipynb`**: Jupyter notebook containing the complete workflow.
 - **`app.py`**: Flask application for the web interface.
 
-## Future Improvements
-- Implementing advanced machine learning models such as Random Forest, XGBoost, or Neural Networks for better performance.
-- Adding more features to the dataset for improved prediction accuracy.
-- Enhancing the web-based application with better UI/UX and additional functionalities.
 
-## Contribution Guidelines
-Contributions to the project are welcome. Please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and create a pull request.
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as per your requirements.
 
-## Acknowledgments
-- The dataset provider and the open-source community for tools and libraries.
-- Everyone who contributed to the project.
